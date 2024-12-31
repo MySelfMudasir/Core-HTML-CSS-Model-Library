@@ -1,11 +1,11 @@
 # Premium Modal System 🎯
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue.svg)](https://premium-modal-demo.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue.svg)](https://myselfmudasir.github.io/Core-HTML-CSS-Model-Library)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/yourusername/premium-modal)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/MySelfMudasir/Core-HTML-CSS-Model-Library)
 
 A lightweight, flexible, and beautiful modal system with smooth animations and extensive customization options. No dependencies required!
 
-![Modal Preview](https://via.placeholder.com/800x400?text=Premium+Modal+Preview)
+![Modal Preview](Screenshot 2024-12-31 150907.jpg)
 
 ## ✨ Features
 
@@ -22,8 +22,8 @@ A lightweight, flexible, and beautiful modal system with smooth animations and e
 
 1. Include the CSS and JavaScript files in your project:
 ```html
-<link rel="stylesheet" href="modal.css">
-<script src="modal.js"></script>
+<link rel="stylesheet" href="style.css">
+<script src="style.js"></script>
 ```
 
 2. Add the modal HTML structure:
@@ -151,8 +151,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- GitHub: [@MySelfMudasir](https://github.com/MySelfMudasir)
+- Instagram: [@MySelfMudasir](https://instagram.com/MySelfMudasir)
 
 ## 🙏 Acknowledgments
 
